@@ -1,0 +1,25 @@
+body {
+    margin: auto;
+    padding: 0%;
+    background-color: rgb(83, 83, 230);
+}
+button {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    top: 50%;
+    color: white;
+    font-size: 30px;
+    border: solid white;
+    background-color: transparent;
+    padding: 20px 20px;
+    border-radius: 40px;
+}
+#hex {
+    color: white;
+    font-size: 32px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    top: 40%;
+}
